@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace API_Tarefas.Migrations
 {
-    public partial class CriarTabelaTarefas : Migration
+    public partial class AdicionaTabelaTarefas : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

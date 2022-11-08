@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace API_Tarefas.Migrations
 {
     [DbContext(typeof(TarefaContext))]
-    [Migration("20221107190407_CriarTabelaTarefas")]
-    partial class CriarTabelaTarefas
+    [Migration("20221108114708_AdicionaTabelaTarefas")]
+    partial class AdicionaTabelaTarefas
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
